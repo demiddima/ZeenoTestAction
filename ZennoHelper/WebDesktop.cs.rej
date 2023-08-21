@@ -1,0 +1,10 @@
+diff a/ZennoHelper/WebDesktop.cs b/ZennoHelper/WebDesktop.cs	(rejected hunks)
+@@ -9,7 +9,7 @@
+ 
+ namespace ZennoHelper
+ {
+-    public static class Web
++    public static class WebDesktop
+     {
+         public static Instance instance;
+         public static IZennoPosterProjectModel project;
